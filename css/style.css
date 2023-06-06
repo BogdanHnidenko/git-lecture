@@ -1,0 +1,12 @@
+ul {
+	display: grid;
+	row-gap: 10px;
+}
+
+ul:first-child {
+	background: rgb(248, 161, 161);
+}
+
+ul:last-child {
+	background: rgb(145, 255, 137);
+}
